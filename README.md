@@ -12,7 +12,7 @@ First Create Data Base  : `merlacoffee` and create tables as you see in next pin
 
 ![](Capture1.PNG)
 
-![](Capture2.PNG)
+![](Capture3.PNG)
 
 # Admin Interface
 **********************
