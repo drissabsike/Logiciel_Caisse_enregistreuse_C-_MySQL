@@ -1,0 +1,95 @@
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MerlaCoffee.exe.config
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MerlaCoffee.exe
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MerlaCoffee.pdb
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySql.Data.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySql.Data.EntityFramework.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySql.Web.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\Google.Protobuf.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\BouncyCastle.Crypto.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\Ubiety.Dns.Core.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\Renci.SshNet.dll
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySql.Data.xml
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySql.Data.EntityFramework.xml
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\bin\Debug\MySql.Web.xml
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.exe.config
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.AddEmployee.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.Admin.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.Home.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.CaissierStart.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.Gestion_Stock.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.Properties.Resources.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.StartWork.resources
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.GenerateResource.cache
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.CopyComplete
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.exe
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.pdb
+D:\4eme Genie Logiciel\C#\MerlaCoffee\MerlaCoffee\obj\Debug\MerlaCoffee.csprojAssemblyReference.cache
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\ca2.jpg
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\cap.jpg
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MerlaCoffee.exe.config
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MerlaCoffee.exe
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MerlaCoffee.pdb
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Data.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Data.EntityFramework.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Web.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Xceed.Document.NET.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Xceed.Words.NET.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Google.Protobuf.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\BouncyCastle.Crypto.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Ubiety.Dns.Core.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Renci.SshNet.dll
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Data.xml
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Data.EntityFramework.xml
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Web.xml
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csprojAssemblyReference.cache
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.exe.config
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.AddEmployee.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Admin.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Home.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Gestion_Stock.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Properties.Resources.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.StartWork.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.StockUpdate.resources
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.GenerateResource.cache
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.CoreCompileInputs.cache
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.CopyComplete
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.exe
+D:\4eme Genie Logiciel\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.pdb
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\ca2.jpg
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\cap.jpg
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MerlaCoffee.exe.config
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MerlaCoffee.exe
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MerlaCoffee.pdb
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Xceed.Document.NET.dll
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Xceed.Words.NET.dll
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Google.Protobuf.dll
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\Renci.SshNet.dll
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Data.xml
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Data.EntityFramework.xml
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\bin\Debug\MySql.Web.xml
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csprojAssemblyReference.cache
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.exe.config
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.AddEmployee.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Admin.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Home.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Gestion_Stock.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.Properties.Resources.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.StartWork.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.StockUpdate.resources
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.GenerateResource.cache
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.CoreCompileInputs.cache
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.csproj.CopyComplete
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.exe
+D:\C#_ASP\C#\optimiser\Version3\MerlaCoffee\obj\Debug\MerlaCoffee.pdb

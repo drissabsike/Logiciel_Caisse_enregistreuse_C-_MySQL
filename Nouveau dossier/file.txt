@@ -1,0 +1,32 @@
+xamp
+****
+XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique. Il s'agit d'une distribution de logiciels libres (X (cross) Apache MariaDB Perl PHP) offrant une bonne souplesse d'utilisation, réputée pour son installation simple et rapide. Ainsi, il est à la portée d'un grand nombre de personnes puisqu'il ne requiert pas de connaissances particulières et fonctionne, de plus, sur les systèmes d'exploitation les plus répandus.
+
+
+c#
+**
+C# (C sharp ) est un langage de programmation orientée objet, commercialisé par Microsoft depuis 20023 et destiné à développer sur la plateforme Microsoft .NET.
+Il est dérivé du C++ et très proche du Java dont il reprend la syntaxe générale ainsi que les concepts, y ajoutant des notions telles que la surcharge des opérateurs, les indexeurs et les délégués. Il est utilisé notamment pour développer des applications web sur la plateforme ASP.NET.
+
+
+Microsoft Visual Studio
+***********************
+Microsoft Visual Studio est une suite de logiciels de développement pour Windows et mac OS conçue par Microsoft. La dernière version s'appelle Visual Studio 2019.
+Visual Studio est un ensemble complet d'outils de développement permettant de générer des applications web ASP.NET, des services web XML, des applications bureautiques et des applications mobiles. Visual Basic, Visual C++, Visual C# utilisent tous le même environnement de développement intégré (IDE), qui leur permet de partager des outils et facilite la création de solutions faisant appel à plusieurs langages. Par ailleurs, ces langages permettent de mieux tirer parti des fonctionnalités du framework .NET, qui fournit un accès à des technologies clés simplifiant le développement d'applications web ASP et de services web XML grâce à Visual Web Developer.
+
+microsoft visual studio installer projects
+******************************************
+L'extension Advanced Installer pour Microsoft Visual Studio permet de créer des projets Advanced Installer pour Visual Studio. Chacun de ces projets est un conteneur qui peut inclure un seul fichier .AIP. Un fichier .AIP représentant un package d'installation, un projet d'installation avancé pour Visual Studio peut inclure un ou plusieurs packages d'installation en fonction de vos besoins (Le setup).
+
+Boost Test Adapter
+******************
+Boost Test Adapter is available as an extension for Microsoft Visual Studio. It makes use of the Unit Test Explorer (UTE) provided by Microsoft to visualize and run unit test cases that are written using open source Boost Test Library.
+
+MySQL.Data
+**********
+MySQL Data est une application destinée à l'exportation rapide de vos données depuis les bases de données MySQL vers 15 autres formats notamment Access, Excel, Word, HTML, XML et PDF. L'application intègre un assistant qui vous permettra de définir visuellement des options d'exportation pour chaque table (nom du dossier de destination, champs exportés, formats des données, etc.) ainsi qu'un utilitaire de ligne de commande.
+
+
+Xceed.Document.NET
+******************
+Permet de modifier ou de créer des documents Microsoft Word en .NET, sans nécessiter la présence de Word ou de Office. Rapide, léger, et appuyée par une équipe de soutien et de développement dont l’unique ambition est de vous donner entière satisfaction.
