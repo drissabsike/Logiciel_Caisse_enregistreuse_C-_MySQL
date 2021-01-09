@@ -14,4 +14,6 @@ First Create Data Base  : `merlacoffee` and create tables as you see in next pin
 
 ![](Capture2.PNG)
 
-![](Capture3.PNG)
+# Admin Interface
+**********************
+![](Capture8.PNG)
